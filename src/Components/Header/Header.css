@@ -1,0 +1,11 @@
+.Header{
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: 15px;
+    background: #fff;
+    box-shadow: 0 0px 5px 5px rgba(0,0,0,.1);
+    margin-bottom: 30px;
+    text-align: center;
+    z-index: 99;
+}

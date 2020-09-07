@@ -1,0 +1,10 @@
+.cryptoItemsContainer,
+.cryptoItemsContainer .coins {
+    position: relative;
+    float: left;
+    width: 100%;
+    clear: both;
+}
+.cryptoItemsContainer button{
+    margin: 0px 15px 10px 0px;
+}
